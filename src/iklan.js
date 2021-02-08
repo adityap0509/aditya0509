@@ -10,7 +10,7 @@ const iklan = () => {
 ╠➥ *GOPAY, DANA, PULSA,TRAKTEER*
 ╠═══════════════════════════
 ╠➥ *KEUNTUNGAN SEWA BOT :*
-╠➥ *1. BISA MENJADI ADMIN Rizky*
+╠➥ *1. BISA MENJADI ADMIN Aditya*
 ╠➥ *2. BISA MENDAPATKAN COMMAND ADMIN*
 ╠➥ *KEUNTUNGAN BUAT BOT :*
 ╠➥ *1. BISA MENJADI OWNER BOT SENDIRI*
