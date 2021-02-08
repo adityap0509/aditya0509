@@ -21,9 +21,9 @@ const iklan = () => {
 ╠═══════════════════════════
 ╠➥ *JIKA MINAT IKLAN DIATAS*
 ╠➥ *HARAP HUBUNGI NOMOR DIBAWAH :*
-╠➥ *wa.me/6285722553839*
+╠➥ *wa.me/6285155446265*
 ║
-╚═〘  NOEERBOT BOT 〙
+╚═〘  ADITYA BOT 〙
 `
 }
 exports.iklan = iklan
