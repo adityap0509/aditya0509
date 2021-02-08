@@ -1,14 +1,14 @@
 const help = (prefix) => { 
 	return `
 ╭────┈ ↷
-┃□│✎┊NOEERBOT
+┃□│✎┊ADITYABOT
 ┃□│╭────────╯
-┃□││❀:ཻུ۪۪⸙Nama : NOEERBOT
-┃□││❀:ཻུ۪۪⸙Anuthor : Aris187 ID
-┃□││❀:ཻུ۪۪⸙IG : @_sadboy.ig
+┃□││❀:ཻུ۪۪⸙Nama : ADITYABOT
+┃□││❀:ཻུ۪۪⸙Anuthor : ADITYA
+┃□││❀:ཻུ۪۪⸙IG : @adityap_05
 ┃□││❀:ཻུ۪۪⸙prefix : ${prefix}
 ╰─────────────────┈ ❁ཻུ۪۪⸙͎
-A187 ID | SUBSCRIBE
+Aditya P | SUBSCRIBE
 ─────────────────┈ ❁۪۪
 
 ╭┈──────RULES
@@ -58,7 +58,7 @@ A187 ID | SUBSCRIBE
 ─────────────────┈ ❁۪۪
 ─➤ UPDATE PADA 26-01-2021
 ─➤ Fitur ini membutuhkan api,minat?
- ╰➤ PC 085722553839「pesan ga penting block」
+ ╰➤ PC 085155446265「pesan ga penting block」
 ─────────────────┈ ❁۪۪
 ╰─➤ *${prefix}apiteks [text]*
 ╰─➤ *${prefix}airteks [text]*
@@ -93,7 +93,7 @@ MASLENT
           ║▌│█║▌│ █║▌│█│║▌║
           ║▌│█║▌│ █║▌│█│║▌║
    
-             ©️ *ARIS187 ID*
+             ©️ *ADITYA05 ID*
 
 `
 }
